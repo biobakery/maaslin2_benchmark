@@ -1,0 +1,13 @@
+method: method1 method2 method3 method4 method5
+metadataType: type1 type2 type3 type4
+nMicrobes: n1 n2 n3
+nSamples: samp1 samp2 samp3 samp4 samp5 samp6 samp7 samp8
+spikePerc: perc1 perc2
+spikeStrength: strength1 strength2 strength3 strength4 strength5 strength6
+nMetadata: nm1 nm2 nm3 nm4
+spikeMeta: spike1 spike2 spike3
+noZeroInflate: True False
+workingDirectory: Dir/
+
+
+^^ Parameters should be in a text file with this format
